@@ -1,0 +1,5 @@
+
+'''The templates package is to retrieve any html templates/documents to create the webpage.
+#As we can't create functions and auth routes for each UI elements,
+#We can use Jinja (a flask package) to code in python which integrates with html to create the webpages without the knowledge of the JS.
+'''
